@@ -1,4 +1,4 @@
-- 👋 Olá olá, meu nome é Lucas
+- 👋 Olá, meu nome é Lucas
 - 🌱 Atualmente cursando Análise e Desenvolvimento de Sistemas
 - 📫 Pra falar comigo: lucasdearaujo@pm.me
 
